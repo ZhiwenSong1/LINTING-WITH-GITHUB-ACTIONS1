@@ -1,1 +1,1 @@
-echo "print('this is not properly'+   ' formatted python' + ' code' )" > ./src/test.py
+"print('this is not properly'+   ' formatted python' + ' code' )"
